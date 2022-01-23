@@ -1,0 +1,5 @@
+classes = 2
+train  = /content/drive/MyDrive/DS201-New/Code/YOLOv3/data/train.txt
+valid  = /content/drive/MyDrive/DS201-New/Code/YOLOv3/data/val.txt
+names = /content/drive/MyDrive/DS201-New/Code/YOLOv3/MASK/object.names
+backup = /content/drive/MyDrive/DS201-New/Code/YOLOv3
